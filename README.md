@@ -15,11 +15,11 @@ Ironhack Frontend final project. The objective was to build a To-Do List using t
 
 <br>
 
-![homeviewCheck.me](./src/assets/checkme_home_view.jpg)
+![homeviewCheck.me](./ToDoApp/src/assets/checkme_home_view.jpg)
 
 <br>
 
-![homeviewCheck.me](./src/assets/checkme_notes_view.jpg)
+![homeviewCheck.me](./ToDoApp/src/assets/heckme_notes_view.jpg)
 
 <br>
 
